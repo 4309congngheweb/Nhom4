@@ -3,6 +3,6 @@
 <h2>Xây dựng hệ thống học nhóm bằng socket.io</h1>
 CÁC THÀNH VIÊN TRONG NHÓM
   <ul><li>Lê Thị Huyền</li>
-  <li>Trần Thị Thanh Dung</li>
+  <li>Dương Thị Thanh Dung</li>
   <li>Trương Thị Phương Thảo</li>
   <li>Lê Thị Nhàn: Nhóm trưởng.</li></ul>
